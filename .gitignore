@@ -1,16 +1,7 @@
 # =========================================
 # Android Studio & IntelliJ specific files
 # =========================================
-.idea/                       # Configuración general de proyecto
-*.iml                        # Archivos del módulo
-*.ipr                        # Proyectos antiguos de IntelliJ
-*.iws                        # Proyectos antiguos de IntelliJ
-
-# Archivos específicos del usuario
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
-.idea/libraries/
+.idea/
 
 # VS Code (si lo usás ocasionalmente)
 .vscode/
